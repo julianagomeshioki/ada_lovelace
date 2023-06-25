@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarefa Ada Lovelace</title>
+    <style>
+        body{
+            background-color:darkgray;
+            height: 800px;
+            width: 1200px;
+            
+            }
+        .container{
+            background-color:white;
+            height: 815px;
+            width: 650px;
+            display: inline-block;
+            
+        }
+        .ada{
+            padding-left: 50px;
+            padding-right: 50px;
+            
+        }
+        .titulo{
+            height: 80px;
+            width: 500px;
+            background-color:lightgrey;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            margin-left: 25px;
+            margin-right: 25px;    
+            text-align: center;
+            font-size: 25px;
+            
+        }
+        .texto{
+
+            height: 400px;
+            width: 400px;
+            display: inline-block;
+            float: right;
+            font-size: larger;
+
+         }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="titulo"><h1>Ada Lovelace</h1></div>
+        <div class="ada"><img src="Ada.jpg"  width="450px" ></div>
+    </div>
+
+        <div class="texto">
+            <p>Ada Lovelace, cujo nome completo era Augusta Ada King, Condessa de Lovelace, foi uma matemática e escritora britânica. Ela nasceu em 10 de dezembro de 1815 e faleceu em 27 de novembro de 1852. Ada Lovelace é considerada a primeira programadora da história.
+
+                Ada Lovelace ficou conhecida principalmente por seu trabalho com o matemático Charles Babbage e sua máquina analítica, um dispositivo mecânico precursor do computador moderno. Ela colaborou com Babbage em seu projeto e escreveu uma série de notas explicativas sobre a máquina analítica.
+                
+                Essas notas incluíam um algoritmo para calcular os números de Bernoulli, o que tornou Ada Lovelace pioneira na programação de computadores. Ela percebeu o potencial da máquina analítica para além do simples cálculo matemático, antecipando seu uso em tarefas como a criação de música e gráficos, prevendo assim o conceito de programação de propósito geral.
+                
+                Embora a máquina analítica nunca tenha sido construída durante a vida de Ada Lovelace, suas contribuições teóricas e visão sobre a capacidade dos computadores de realizar tarefas além da matemática tiveram um impacto significativo no desenvolvimento da ciência da computação. Ada Lovelace é considerada uma figura influente na história da computação e é celebrada como uma pioneira e inspiração para as mulheres nas áreas de ciência, tecnologia, engenharia e matemática.</p>
+        </div>
+        
+    
+</body>
+</html>
